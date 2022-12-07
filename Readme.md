@@ -1,3 +1,5 @@
+# LendingClubCaseStudy
+
 ## Introduction :  
 * Risk Analysis for a Consumer Finance company where we want to help company to take decisions to offer loan to a particular applicant or not. Risks are identified based on the applicant's profile.
 
